@@ -8,7 +8,7 @@ export const data = LandscapeSchema.make({
 	Description: 'Convex is the open source, reactive database where queries are TypeScript code running right in the database. Just like React components react to state changes, Convex queries react to database changes.',
 	Website: 'https://convex.dev',
 	Deployment: ['Self-hosted', 'Hosted'],
-	GitHub: 'https://github.com/get-convex/convex-backend',
+	GitHub: 'https://github.com/convex/convex-backend',
 	GetStarted: 'https://docs.convex.dev/tutorial/',
 	Logo: {
 		Light: 'https://static.convex.dev/logo/convex-logo.svg',
